@@ -32,3 +32,4 @@ El desarrollo se dividió en 4 fases estratégicas:
     * Registro de experimentos para comparar *Loss* y *Accuracy*.
     * Comparativa de modelos (Base vs. Optimizado).
   
+<img width="920" height="575" alt="Image" src="https://github.com/user-attachments/assets/16df07c6-487e-429d-8068-134d8402792f" />
